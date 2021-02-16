@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Valid Anagram  Solution '/>
+        <page name='The K Weakest Rows in a Matrix'/>
+        <page name='Binary Tree Right 	Side View'/>
+        <page name='Letter Case Permutation'/>
+    </pages>
+</playground>
